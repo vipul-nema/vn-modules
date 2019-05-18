@@ -1,0 +1,17 @@
+{
+  "name": "vn-modules",
+  "version": "1.0.1",
+  "description": "npm package to publish by vipulnema2610@gmail.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "publish",
+    "npm",
+    "package"
+  ],
+  "author": "vipulnema2610@gmail.com",
+  "license": "ISC"
+}
